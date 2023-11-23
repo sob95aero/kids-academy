@@ -1,0 +1,17 @@
+1) na robota si posvitilo slunicko. Otevre oko, mrkne ale pak pipne, zavrti se a zase spi.
+Muze mrkat obema ocima? Otevre je a pak je zase zavre?
+
+2) robotovi se nechce vstavat a ceka az ho nekdo probudi. Najde se kamarad ktery mu posle probouzeci signal? Pipne a blikne mu na pozdrav?
+ Muze robot zase usnout i pote co se probudil?
+ 
+3) robot brbla po vstavani. Napis program co hraje muziku dokud ho nevypnes ;-)
+ Dokazes ho zastavit jinym robotem ?
+  
+4) robot jede do kuchyne najdednou se mu chce curat. Musi odbocit a ujizdet na zachod. 
+ Jaky je rozdil mezi prikazem Sleduj cestu na cas a Sleduj cestu naporad
+ 
+5) rozcvicka -  nakresli ctverec o strane 2x2 sekundy.
+ O kolik se musis sekund otocit aby to bylo 90 stupnu? Muzes od zacatku udelat jeste jeden dalsi vetsi kruh o strane 3 sekundy?
+
+6) Nestiha do skoly / skolky. Zjisti rychlost sveho robota podle ujete vzdalenosti a casu - pouzij pouze pokyn Jizda vpred. (Stihne to ?)
+ Kolik musis dat nejmensi cas aby to bylo co nejpresnejsi ? + Zkus zvysit rychlost . Jaky je rozdil mezi pomalu / stredni / nejrychlejsi ?
